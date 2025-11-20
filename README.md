@@ -3,3 +3,9 @@ Every quarter after the NYSE market closes, companies that are publicly traded o
 Large language models (LLMs) have evolved to overcome the challenges of extracting sentiment from textual data, especially in financial industry, where obstacles stem from the need for domain-specific knowledge and the predictive purpose of using this information for future trading decisions.
 
 Using a dataset containing 974 sentences from Q&A sections of five Meta’s earnings calls, from 2024 to Q1/2025, the project investigates the potential of two LLMs - GPT-5 and DeepSeek-V3 in sentiment classification and aspect-based sentiment analysis against human-labelled benchmarks. The results encourage the application of LLMs as a tool in automating the financial sentiment analysis process to understand fast-moving technology trends that are mentioned in conference calls. This includes summarizing and extracting the key terms in each earnings call using Large Language Models. 
+
+Notebook 1: Data Pre-processing
+Notenook 2: LLMs Sentiment Classification
+Notebook 3: Fine-tuning FinBERT
+Notebook 4: LLMs ASBA
+Notebook 5: A complete NLP pipeline
